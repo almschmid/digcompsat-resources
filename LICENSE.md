@@ -1,1 +1,5 @@
+de-DE: CC BY 4.0 - Sofern nicht anders angegeben, sind Ressourcen in diesem Repository unter der Creative Commons Attribution 4.0 Lizenz (CC BY 4.0) (https://creativecommons.org/licenses/by/4.0/) lizenziert. Das bedeutet, dass die Wiederverwendung der Ressourcen unter Angabe der entsprechenden Quelle, bei wissenschaftlichen Arbeiten insbesondere der korrekten Zitation, und unter Hinweis auf etwaige Änderungen zulässig ist.
 
+en-GB: CC BY 4.0 - Unless otherwise stated, resources in this repository are licensed under the Creative Commons Attribution 4.0 Licence (CC BY 4.0) (https://creativecommons.org/licenses/by/4.0/). This means that the resources may be reused provided that the relevant source is cited, in particular the correct citation in scientific works, and any changes are indicated.
+
+![Logo CC-BY](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg)
