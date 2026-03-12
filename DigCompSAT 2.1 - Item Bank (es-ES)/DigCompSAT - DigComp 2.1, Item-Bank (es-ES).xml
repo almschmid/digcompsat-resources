@@ -1,0 +1,2255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questionnaire id="872261">
+  <title>DigCompSAT - DigComp 2.1, Item-Bank auf Spanisch (es-ES)</title>
+  <investigator/>
+  <dataCollector/>
+  <section id="10286">
+    <sectionInfo>
+      <position>title</position>
+      <text>CA1: Information and data literacy</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Sé que los distintos buscadores pueden dar resultados diferentes, porque están influidos por factores comerciales.</text>
+      <response varName="Q1">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé qué palabras utilizar para encontrar rápidamente lo que necesito (por ejemplo, para buscar en internet o dentro de un documento).</text>
+      <response varName="Q2">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Cuando utilizo un buscador, puedo aprovechar sus características avanzadas.</text>
+      <response varName="Q3">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé cómo encontrar un sitio web que he visitado antes.</text>
+      <response varName="Q4">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé cómo diferenciar el contenido promocionado de otros contenidos que recibo o encuentro por internet (p.ej. reconocer un anuncio en los medios sociales o en los buscadores).</text>
+      <response varName="Q5">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé cómo identificar la intención de una fuente de información online (por ejemplo, informar, influir, entretener o vender).</text>
+      <response varName="Q6">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Compruebo críticamente si la información que encuentro en internet es fiable.</text>
+      <response varName="Q7">
+        <fixed>
+          <category>
+            <label>No en absoluto</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>No mucho / muy poco</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo	Si, puedo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Mucho</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé que algunas informaciones en internet son falsas (por ejemplo, las "&lt;i&gt;fake news&lt;/i&gt;").</text>
+      <response varName="Q8">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé que hay diferentes medios de almacenamiento (por ejemplo, disco duro interno o externo, memoria USB, pen drive, tarjeta de memoria).</text>
+      <response varName="Q9">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé cómo organizar contenidos digitales (por ejemplo, documentos, imágenes, vídeos) utilizando carpetas o etiquetas para encontrarlos más tarde.</text>
+      <response varName="Q10">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé cómo copiar y mover archivos (por ejemplo, documentos, imágenes, vídeos) entre carpetas, dispositivos o en la nube.</text>
+      <response varName="Q11">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé cómo gestionar y analizar los datos utilizando programas informáticos (por ejemplo, clasificar, filtrar, calcular).</text>
+      <response varName="Q12">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+  <section id="10287">
+    <sectionInfo>
+      <position>title</position>
+      <text>CA2: Communication and collaboration</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Sé cómo enviar, responder y reenviar correos electrónicos.</text>
+      <response varName="Q13">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé que muchos servicios de comunicación y medios sociales son gratuitos porque se pagan con publicidad.</text>
+      <response varName="Q14">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé cómo utilizar las funciones avanzadas en una videoconferencia (por ejemplo, moderación, grabación de audio y vídeo).</text>
+      <response varName="Q15">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé qué herramientas y servicios de comunicación (por ejemplo, teléfono, correo electrónico, videoconferencia, mensaje de texto) son las apropiadas para utilizarlas en diferentes situaciones.</text>
+      <response varName="Q16">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Estoy dispuesto a compartir contenidos digitales si creo que pueden ser interesantes y útiles para otros.</text>
+      <response varName="Q17">
+        <fixed>
+          <category>
+            <label>No en absoluto</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>No mucho / muy poco</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo	Si, puedo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Mucho</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé cómo usar servicios en la nube (por ejemplo, Google Drive, Dropbox y OneDrive) para compartir mis archivos.</text>
+      <response varName="Q18">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé cómo establecer con quién comparto contenidos en cada caso (por ejemplo, amigos, amigos de amigos, todos).</text>
+      <response varName="Q19">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé cómo referenciar la fuente de los documentos (por ejemplo, el autor o la dirección web) que encuentro en internet.</text>
+      <response varName="Q20">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé cómo solicitar un empleo utilizando una plataforma digital (por ejemplo, rellenando un formulario, subiendo mi CV y una foto).</text>
+      <response varName="Q21">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé que muchos servicios públicos están disponibles en internet (por ejemplo, reservar una visita médica, presentar la declaración de impuestos, solicitar certificados de nacimiento, matrimonio, residencia y otros).</text>
+      <response varName="Q22">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé cómo hacer los pagos de los bienes y servicios que compro por internet (por ejemplo, mediante transferencia bancaria directa, tarjetas de crédito/débito, otros sistemas de pago en línea).</text>
+      <response varName="Q23">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Me importa participar en debates sobre cuestiones sociales o políticas en internet (por ejemplo, en foros en línea, sitios de noticias, Facebook, Twitter).</text>
+      <response varName="Q24">
+        <fixed>
+          <category>
+            <label>No en absoluto</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>No mucho / muy poco</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo	Si, puedo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Mucho</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Comprendo los beneficios de la colaboración a distancia (por ejemplo, la reducción del tiempo de desplazamiento).</text>
+      <response varName="Q25">
+        <fixed>
+          <category>
+            <label>No en absoluto</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>No mucho / muy poco</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo	Si, puedo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Mucho</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé cómo editar un documento compartido en algún servicio online.</text>
+      <response varName="Q26">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé cómo invitar a otros y dar los permisos apropiados para colaborar en un documento compartido.</text>
+      <response varName="Q27">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Soy consciente de que debo pedir permiso a una persona antes de publicar o compartir fotos en las que aparece.</text>
+      <response varName="Q28">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé cómo reconocer los mensajes y los comportamientos en internet que atacan a ciertos grupos o individuos (por ejemplo, los discursos de odio).</text>
+      <response varName="Q29">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Puedo tomar las medidas adecuadas si alguien está haciendo algo malo en internet (por ejemplo, comentarios ofensivos, amenazas).</text>
+      <response varName="Q30">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé cómo comportarme en internet según la situación (por ejemplo, formal o informal).</text>
+      <response varName="Q31">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé que mi identidad digital es todo aquello que me identifica en los entornos online (por ejemplo, nombres de usuario, gustos y publicaciones en medios sociales, peticiones firmadas online).</text>
+      <response varName="Q32">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé cómo crear un perfil en los entornos digitales con fines personales o profesionales.</text>
+      <response varName="Q33">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé que la Unión Europea introdujo una regulación sobre el derecho al olvido (p.ej. que la información privada de una persona sea eliminada de Internet).</text>
+      <response varName="Q34">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé cómo configurar los ajustes de mi navegador de internet para evitar o limitar las cookies.</text>
+      <response varName="Q35">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+  <section id="10288">
+    <sectionInfo>
+      <position>title</position>
+      <text>CA3: Digital content creation</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Sé crear y editar archivos digitales de texto (por ejemplo, Word, OpenDocument, Google Docs).</text>
+      <response varName="Q36">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé cómo expresarme mediante la creación de contenidos digitales en internet (por ejemplo, entradas de blog, vídeos en YouTube).</text>
+      <response varName="Q37">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Sé cómo producir una presentación multimedia con texto, imágenes y elementos de audio y vídeo. &lt;/p&gt;</text>
+      <response varName="Q38">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Para expresarme, tengo cuidado de elegir el tipo de medio digital adecuado en función de la audiencia y de mi objetivo (p. ej., utilizar los medios sociales para promover un proyecto).</text>
+      <response varName="Q39">
+        <fixed>
+          <category>
+            <label>No en absoluto</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>No mucho / muy poco</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo	Si, puedo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Mucho</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Estoy interesado en crear nuevos contenidos digitales mezclando y modificando los recursos digitales existentes (p.ej. una presentación con fotos y una banda sonora que encuentro en internet).</text>
+      <response varName="Q40">
+        <fixed>
+          <category>
+            <label>No en absoluto</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>No mucho / muy poco</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo	Si, puedo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Mucho</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé que algunos contenidos digitales pueden ser reutilizados y reelaborados legalmente (por ejemplo, el dominio público o con licencias Creative Commons).</text>
+      <response varName="Q41">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Sé cómo editar o modificar los contenidos digitales que otros han creado (por ejemplo, insertar un texto en una imagen, editar un wiki). &lt;/p&gt;</text>
+      <response varName="Q42">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Sé cómo crear algo nuevo mezclando diferentes tipos de contenido (por ejemplo, texto e imágenes). &lt;/p&gt;</text>
+      <response varName="Q43">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Tengo cuidado de seguir las normas sobre derechos de autor y licencias de los contenidos digitales que encuentro.</text>
+      <response varName="Q44">
+        <fixed>
+          <category>
+            <label>No en absoluto</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>No mucho / muy poco</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo	Si, puedo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Mucho</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé que la descarga o el intercambio de contenidos digitales (por ejemplo, música, programas informáticos, películas) puede tener consecuencias éticas o jurídicas.</text>
+      <response varName="Q45">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Puedo detectar cuando un contenido digital es accesible ilegalmente (por ejemplo, software, películas, música, libros, TV). &lt;/p&gt;</text>
+      <response varName="Q46">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Conozco los diferentes tipos de licencias que se aplican a la utilización de los contenidos digitales (por ejemplo, las licencias Creative Commons). &lt;/p&gt;</text>
+      <response varName="Q47">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Me interesa comprender cómo dividir una tarea en pasos de forma que se pueda automatizar con un programa informático o un robot.</text>
+      <response varName="Q48">
+        <fixed>
+          <category>
+            <label>No en absoluto</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>No mucho / muy poco</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo	Si, puedo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Mucho</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé que los lenguajes de programación (por ejemplo, Python, Visual Basic, Java) se utilizan para dar instrucciones a los ordenadores para que realicen tareas.</text>
+      <response varName="Q49">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Puedo escribir scripts, macros y aplicaciones simples para automatizar la ejecución de una tarea. &lt;/p&gt;</text>
+      <response varName="Q50">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé que puede haber diferentes algoritmos para llevar a cabo una tarea de cálculo específica (por ejemplo, clasificación y búsqueda).</text>
+      <response varName="Q51">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+  <section id="10289">
+    <sectionInfo>
+      <position>title</position>
+      <text>CA4: Safety</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Comprendo las ventajas y los riesgos de seguridad cuando se utilizan dispositivos o sistemas conectados a internet (por ejemplo, relojes o dispositivos domésticos inteligentes).</text>
+      <response varName="Q52">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Conozco la importancia de mantener actualizados el sistema operativo, el antivirus y otros programas informáticos para evitar problemas de seguridad</text>
+      <response varName="Q53">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Sé cómo configurar los parámetros de un firewall en diferentes dispositivos. &lt;/p&gt;</text>
+      <response varName="Q54">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Sé cómo recuperar datos, información y contenido digital (por ejemplo, fotos, contactos) a partir de una copia de seguridad. &lt;/p&gt;</text>
+      <response varName="Q55">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Sé cómo restringir o denegar el acceso a mi ubicación geográfica. &lt;/p&gt;</text>
+      <response varName="Q56">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Sé cómo identificar los mensajes de correo electrónico sospechosos que tratan de obtener mis datos personales. &lt;/p&gt;</text>
+      <response varName="Q57">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Sé cómo comprobar que un sitio web en el que se me pide que facilite datos personales es seguro (por ejemplo, sitios https, logotipo o certificado de seguridad). &lt;/p&gt;</text>
+      <response varName="Q58">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé qué datos personales no debo compartir y mostrar en internet (por ejemplo, en redes sociales).</text>
+      <response varName="Q59">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Tengo cuidado al comprobar las políticas de privacidad de los servicios digitales que utilizo.</text>
+      <response varName="Q60">
+        <fixed>
+          <category>
+            <label>No en absoluto</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>No mucho / muy poco</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo	Si, puedo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Mucho</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Soy consciente de que debo administrar el tiempo que paso utilizando mis dispositivos digitales.</text>
+      <response varName="Q61">
+        <fixed>
+          <category>
+            <label>No en absoluto</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>No mucho / muy poco</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo	Si, puedo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Mucho</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Sé cómo protegerme de encuentros y materiales no deseados y maliciosos en internet (p.ej. mensajes de spam, correos para robar mi identidad). Sé cómo protegerme de encuentros y materiales no deseados y maliciosos en internet (p.ej. mensajes de spam, correos para robar mi identidad). &lt;/p&gt;</text>
+      <response varName="Q62">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé que hay herramientas digitales que pueden ayudar a las personas mayores o con necesidades especiales.</text>
+      <response varName="Q63">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Busco formas en las que las tecnologías digitales puedan ayudarme a vivir y consumir de forma más respetuosa con el medio ambiente.</text>
+      <response varName="Q64">
+        <fixed>
+          <category>
+            <label>No en absoluto</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>No mucho / muy poco</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo	Si, puedo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Mucho</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé que los dispositivos y consumibles digitales (por ejemplo, computadoras, teléfonos, baterías) deben ser eliminados de manera adecuada para reducir al mínimo su impacto ambiental.</text>
+      <response varName="Q65">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Sé cómo reducir el consumo de energía de mis dispositivos (por ejemplo, cambiar la configuración, cerrar aplicaciones, apagar el wifi). &lt;/p&gt;</text>
+      <response varName="Q66">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Conozco los comportamientos "verdes" que debo seguir al comprar o utilizar dispositivos digitales (por ejemplo, comprar dispositivos con etiqueta ecológica, evitar imprimir innecesariamente, no dejar conectados los cargadores sin el dispositivo).</text>
+      <response varName="Q67">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+  <section id="10290">
+    <sectionInfo>
+      <position>title</position>
+      <text>CA5: Problem solving</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Cuando me enfrento a un problema técnico, trato de identificar el problema paso a paso.</text>
+      <response varName="Q68">
+        <fixed>
+          <category>
+            <label>No en absoluto</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>No mucho / muy poco</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo	Si, puedo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Mucho</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Conozco algunos motivos por las que un dispositivo digital puede no conectarse a internet (por ejemplo, contraseña wifi incorrecta, modo de avión activado).</text>
+      <response varName="Q69">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Cuando me enfrento a un problema técnico, soy capaz de encontrar soluciones en internet. &lt;/p&gt;</text>
+      <response varName="Q70">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Soy capaz de modificar la configuración del sistema operativo de mis dispositivos para resolver problemas técnicos (por ejemplo, parada/inicio automático de servicios, modificación de claves de registro). &lt;/p&gt;</text>
+      <response varName="Q71">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Por lo general, trato de averiguar si existen soluciones tecnológicas que puedan ayudarme a resolver una necesidad personal o profesional.</text>
+      <response varName="Q72">
+        <fixed>
+          <category>
+            <label>No en absoluto</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>No mucho / muy poco</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo	Si, puedo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Mucho</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Conozco las principales funciones de los dispositivos digitales más comunes (computadora, tableta, teléfono inteligente).</text>
+      <response varName="Q73">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Sé cómo seleccionar la herramienta, el dispositivo o el servicio adecuados para realizar una tarea determinada (por ejemplo, seleccionar un smartphone para mis necesidades, elegir una herramienta para una videollamada profesional). &lt;/p&gt;</text>
+      <response varName="Q74">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Conozco soluciones técnicas que pueden mejorar el acceso y la utilización de herramientas digitales como la traducción de idiomas, la ampliación de la pantalla (zoom) o la funcionalidad de texto a voz.</text>
+      <response varName="Q75">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Sé que la tecnología digital puede utilizarse como una poderosa herramienta para innovar procesos y productos.</text>
+      <response varName="Q76">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Estoy dispuesto a participar en desafíos y concursos destinados a resolver problemas intelectuales, sociales o prácticos mediante las tecnologías digitales.</text>
+      <response varName="Q77">
+        <fixed>
+          <category>
+            <label>No en absoluto</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>No mucho / muy poco</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo	Si, puedo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Mucho</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Puedo utilizar herramientas de datos (p.ej. software de base de datos, &lt;i&gt;data mining &lt;/i&gt;o análisis de datos) que gestionan y organizan información compleja para tomar decisiones y resolver problemas. &lt;/p&gt;</text>
+      <response varName="Q78">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Estoy dispuesto a ayudar a las personas de mi entorno a mejorar sus competencias digitales.</text>
+      <response varName="Q79">
+        <fixed>
+          <category>
+            <label>No en absoluto</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>No mucho / muy poco</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo	Si, puedo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Mucho</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Siento curiosidad por los nuevos dispositivos y aplicaciones digitales y me gusta experimentar con ellos siempre que tengo oportunidad.</text>
+      <response varName="Q80">
+        <fixed>
+          <category>
+            <label>No en absoluto</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>No mucho / muy poco</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo	Si, puedo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Mucho</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Sé cómo utilizar las herramientas de aprendizaje online para mejorar mis conocimientos digitales (por ejemplo, video tutoriales, cursos en internet). &lt;/p&gt;</text>
+      <response varName="Q81">
+        <fixed>
+          <category>
+            <label>No sé como hacerlo</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con ayuda</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo por mí mismo</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Puedo hacerlo con confianza, y si es necesario, puedo guiar a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Conozco las nuevas tendencias del mundo digital y cómo afectan a mi vida personal o profesional.</text>
+      <response varName="Q82">
+        <fixed>
+          <category>
+            <label>No conozco esto / Nunca he oído hablar de esto / este tema</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Tengo un conocimiento muy limitado de esto / este tema</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Tengo una buena comprensión de esto / este tema</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Tengo un gran conocimiento de este tema y puedo explicárselo a otros</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>No entiendo esta pregunta</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+</questionnaire>
