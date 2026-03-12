@@ -1,0 +1,2255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<questionnaire id="461147">
+  <title>DigCompSAT - DigComp 2.1, Item-Bank auf Lettisch (lv-LV)</title>
+  <investigator/>
+  <dataCollector/>
+  <section id="10280">
+    <sectionInfo>
+      <position>title</position>
+      <text>CA1: Information and data literacy</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>&lt;p&gt;Es zinu, ka dažādas meklētājprogrammas var sniegt atšķirīgus meklēšanas rezultātus, jo tos ietekmē komerciāli faktori. &lt;/p&gt;</text>
+      <response varName="Q1">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kurus vārdus lietot, lai ātri atrastu nepieciešamo (piem., meklēt tiešsaistē vai dokumentā). &lt;/p&gt;</text>
+      <response varName="Q2">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Kad es izmantoju meklētājprogrammu, es spēju izmantot tās uzlabotās iespējas&lt;/p&gt;</text>
+      <response varName="Q3">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā atrast tīmekļa vietni, kuru esmu apmeklējis jau iepriekš. &lt;/p&gt;</text>
+      <response varName="Q4">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā atšķirt reklamēto saturu no cita, kuru atrodu vai saņemu tiešsaistē (piemēram, atpazīstu reklāmu sociālajos medijos un meklētājos). &lt;/p&gt;</text>
+      <response varName="Q5">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā noteikt tiešsaistes informācijas avota mērķi (piem., informēt, ietekmēt, izklaidēt vai pārdot). &lt;/p&gt;</text>
+      <response varName="Q6">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es kritiski pārbaudu, vai tiešsaistē atrodamā informācija ir ticama. &lt;/p&gt;</text>
+      <response varName="Q7">
+        <fixed>
+          <category>
+            <label>Nekad</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Dažreiz/ ļoti reti</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Jā, bieži</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Vienmēr</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, ka daļa internetā pieejamās informācijas ir nepatiesa (piem., viltus ziņas). &lt;/p&gt;</text>
+      <response varName="Q8">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu par dažādiem informācijas nesējiem (piem., iekšējo vai ārējo cieto disku, USB atmiņu, atmiņas karti). &lt;/p&gt;</text>
+      <response varName="Q9">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā organizēt digitālo saturu (piem., dokumentus, attēlus, video), izmantojot mapes vai marķēšanu ar tagiem, lai tos atrastu vēlāk. &lt;/p&gt;</text>
+      <response varName="Q10">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā kopēt un pārvietot failus (piem., dokumentus, attēlus, video) starp mapēm, ierīcēm vai mākoņpakalpojumiem. &lt;/p&gt;</text>
+      <response varName="Q11">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā pārvaldīt un analizēt datus, izmantojot programmatūru (piem., veikt šķirošanu, filtrēšanu, aprēķinus). &lt;/p&gt;</text>
+      <response varName="Q12">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+  <section id="10281">
+    <sectionInfo>
+      <position>title</position>
+      <text>CA2: Communication and collaboration</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā sūtīt, pārsūtīt e-pastus un atbildēt uz tiem. &lt;/p&gt;</text>
+      <response varName="Q13">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, ka daudzi komunikāciju pakalpojumi un sociālie mediji ir bezmaksas, jo tajos ir apmaksātās reklāmas. &lt;/p&gt;</text>
+      <response varName="Q14">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā izmantot uzlabotās videokonferenču iespējas (piem., moderēt, ierakstīt audio un video). &lt;/p&gt;</text>
+      <response varName="Q15">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu, kuri komunikācijas līdzekļi un pakalpojumi (piem., tālrunis, e-pasts, video konference, īsziņa) ir piemēroti izmantošanai dažādos apstākļos.</text>
+      <response varName="Q16">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Esmu gatavs dalīties ar digitālo saturu, kas, manuprāt, varētu būt interesants un noderīgs citiem. &lt;/p&gt;</text>
+      <response varName="Q17">
+        <fixed>
+          <category>
+            <label>Nekad</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Dažreiz/ ļoti reti</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Jā, bieži</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Vienmēr</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā izmantot mākoņpakalpojumus (piem., Google Drive, DropBox un OneDrive), lai koplietotu savus failus. &lt;/p&gt;</text>
+      <response varName="Q18">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā mainīt personas, ar kurām koplietot saturu (piem., draugiem, draugu draugiem, visiem). &lt;/p&gt;</text>
+      <response varName="Q19">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā atsaukties uz tiešsaistē atrastās informācijas avotu (piem., autoru vai tīmekļa vietni). &lt;/p&gt;</text>
+      <response varName="Q20">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā pieteikties darbam, izmantojot digitālo platformu (piem., aizpildīt veidlapu, augšupielādēt manu CV un fotoattēlu). &lt;/p&gt;</text>
+      <response varName="Q21">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu, ka internetā ir pieejami daudzi publiskie pakalpojumi (piem., pieraksts pie ārsta, gada ienākumu deklarācijas iesniegšana, dzimšanas, laulības, dzīvesvietas un citu izziņu pieprasīšana).</text>
+      <response varName="Q22">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā norēķināties par precēm un pakalpojumiem, ko pērku tiešsaistē (piem., izmantojot tiešos bankas pārskaitījumus, kredītkartes/debetkartes, citas tiešsaistes maksājumu sistēmas). &lt;/p&gt;</text>
+      <response varName="Q23">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Man ir svarīgi tiešsaistē diskutēt par sociāliem vai politiskiem jautājumiem (piem., tiešsaistes forumos, ziņu vietnēs, Facebook, Twitter). &lt;/p&gt;</text>
+      <response varName="Q24">
+        <fixed>
+          <category>
+            <label>Nekad</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Dažreiz/ ļoti reti</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Jā, bieži</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Vienmēr</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es saprotu attālinātās sadarbības priekšrocības (piem., samazinās ceļā pavadītais laiks). &lt;/p&gt;</text>
+      <response varName="Q25">
+        <fixed>
+          <category>
+            <label>Nekad</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Dažreiz/ ļoti reti</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Jā, bieži</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Vienmēr</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā rediģēt koplietotu tiešsaistes dokumentu. &lt;/p&gt;</text>
+      <response varName="Q26">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā uzaicināt citus un piešķirt atbilstošas tiesības, lai sadarbotos kopīga dokumenta izstrādē. &lt;/p&gt;</text>
+      <response varName="Q27">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es apzinos, ka pirms citu personu fotoattēlu publicēšanas vai koplietošanas, man vajadzētu lūgt viņu atļauju.</text>
+      <response varName="Q28">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā atpazīt tiešsaistes ziņojumus un uzvedību, kas uzbrūk noteiktām grupām vai indivīdiem (piem., naida kurināšana). &lt;/p&gt;</text>
+      <response varName="Q29">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es varu veikt pareizos pasākumus, ja kāds tiešsaistē rīkojas nepareizi (piem., izsaka aizskarošus komentārus, draudus). &lt;/p&gt;</text>
+      <response varName="Q30">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu, kā rīkoties tiešsaistē atkarībā no situācijas (piem., formāla vai neformāla).</text>
+      <response varName="Q31">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu, ka mana digitālā identitāte ir viss, pēc kā mani var identificēt tiešsaistes vidē (piem., lietotājvārdi, atzīmes Patīk un ziņas sociālajos medijos, tiešsaistē parakstīti lūgumraksti).</text>
+      <response varName="Q32">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā izveidot profilu digitālajā vidē personīgiem vai profesionāliem mērķiem. &lt;/p&gt;</text>
+      <response varName="Q33">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu, ka ES ieviesa regulu par tiesībām tikt aizmirstam (t.i. tiesībām pieprasīt dzēst personas informāciju no internet vietnēm).</text>
+      <response varName="Q34">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā konfigurēt iestatījumus savā interneta pārlūkā, lai bloķētu vai ierobežotu sīkdatnes. &lt;/p&gt;</text>
+      <response varName="Q35">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+  <section id="10282">
+    <sectionInfo>
+      <position>title</position>
+      <text>CA3: Digital content creation</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā izveidot un rediģēt teksta failus (piem., Word, OpenDocument, Google Docs). &lt;/p&gt;</text>
+      <response varName="Q36">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā izteikties, ievietojot digitālo saturu internetā (piem., emuāra ierakstā, video vietnē Youtube). &lt;/p&gt;</text>
+      <response varName="Q37">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā izveidot multimediju prezentāciju ar tekstu, attēliem, audio un video elementiem. &lt;/p&gt;</text>
+      <response varName="Q38">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Lai izteiktu sevi, es uzmanīgi izvēlos atbilstošu digitālo mediju, apzinoties, ka tas var būt atkarīgs no auditorijas un mana mērķa (piemēram, popularizējot projektu sociālajos medijos). &lt;/p&gt;</text>
+      <response varName="Q39">
+        <fixed>
+          <category>
+            <label>Nekad</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Dažreiz/ ļoti reti</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Jā, bieži</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Vienmēr</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es labprāt radītu jaunu digitālo saturu, apvienojot un mainot esošos digitālos resursus (piemēram, prezentācijas ar foto un mūziku, kas atrasta internetā). &lt;/p&gt;</text>
+      <response varName="Q40">
+        <fixed>
+          <category>
+            <label>Nekad</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Dažreiz/ ļoti reti</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Jā, bieži</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Vienmēr</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu, ka daļu digitālā satura var atkārtoti izmantot un likumīgi pārstrādāt (piem., publiski pieejamo vai ar Creative Commons licencēm).</text>
+      <response varName="Q41">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā rediģēt vai mainīt citu radīto digitālo saturu (piem., pievienot tekstu attēlam, rediģēt viki vietni). &lt;/p&gt;</text>
+      <response varName="Q42">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā radīt kaut ko jaunu, apvienojot dažāda veida saturu (piem., tekstu un attēlus). &lt;/p&gt;</text>
+      <response varName="Q43">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es uzmanīgi sekoju līdzi noteikumiem, kas attiecas uz autortiesībām un digitālā satura licencēm. &lt;/p&gt;</text>
+      <response varName="Q44">
+        <fixed>
+          <category>
+            <label>Nekad</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Dažreiz/ ļoti reti</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Jā, bieži</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Vienmēr</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu, ka digitālā satura lejupielādēšanai vai koplietošanai var būt ētiskas pārkāpuma vai juridiskas sekas (piem., mūzikas, programmatūras, filmu).</text>
+      <response varName="Q45">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es varu noteikt, kad digitālais saturs ir pieejams nelegāli (piem., programmatūra, filmas, mūzika, grāmatas, TV). &lt;/p&gt;</text>
+      <response varName="Q46">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kuras dažādu veidu licences attiecas uz digitālā satura izmantošanu (piem., Creative Commons licences). &lt;/p&gt;</text>
+      <response varName="Q47">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Man ir interese izprast, kā uzdevumu var sadalīt posmos, lai to varētu atrisināt automātiski, piemēram, ar datorprogrammas vai robota palīdzību. &lt;/p&gt;</text>
+      <response varName="Q48">
+        <fixed>
+          <category>
+            <label>Nekad</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Dažreiz/ ļoti reti</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Jā, bieži</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Vienmēr</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu, ka programmēšanas valodas (piem., Python, Visual Basic, Java) tiek izmantotas, lai nodrošinātu digitālās ierīces instrukcijas uzdevuma veikšanai</text>
+      <response varName="Q49">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es varu uzrakstīt scenārijus, makro un vienkāršas lietojumprogrammas, lai automatizētu uzdevuma izpildi. &lt;/p&gt;</text>
+      <response varName="Q50">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu, ka var būt dažādi algoritmiskie risinājumi, lai veiktu noteiktu aprēķinu uzdevumu (piem., šķirošanu un meklēšanu).</text>
+      <response varName="Q51">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+  <section id="10284">
+    <sectionInfo>
+      <position>title</position>
+      <text>CA4: Safety</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>Es saprotu ieguvumus un arī drošības riskus, lietojot ar internetu savienotas ierīces vai sistēmas (piem., viedpulksteņus, viedās mājas ierīces).</text>
+      <response varName="Q52">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu, cik svarīgi ir atjaunināt operētājsistēmu, pretvīrusu un citu programmatūru, lai novērstu drošības apdraudējuma riskus.</text>
+      <response varName="Q53">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā konfigurēt ugunsmūra iestatījumus dažādās ierīcēs. &lt;/p&gt;</text>
+      <response varName="Q54">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā no dublējuma atgūt digitālo informāciju un citu saturu (piem., fotoattēlus, kontaktpersonas). &lt;/p&gt;</text>
+      <response varName="Q55">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā ierobežot vai liegt piekļuvi manai ģeogrāfiskajai atrašanās vietai. &lt;/p&gt;</text>
+      <response varName="Q56">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā atpazīt aizdomīgus e-pasta ziņojumus, kuros kāds mēģina iegūt manus personas datus. &lt;/p&gt;</text>
+      <response varName="Q57">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā pārbaudīt, vai tīmekļa vietne, kurā man lūdz sniegt personas datus, ir droša (piem., https vietnes, drošības logotips vai sertifikāts). &lt;/p&gt;</text>
+      <response varName="Q58">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu, ar kādiem personas datiem nevajadzētu dalīties un publiskot tiešsaistē (piem., sociālajos medijos).</text>
+      <response varName="Q59">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es uzmanīgi iepazīstos ar izmantoto digitālo pakalpojumu sniedzēju privātuma politiku. &lt;/p&gt;</text>
+      <response varName="Q60">
+        <fixed>
+          <category>
+            <label>Nekad</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Dažreiz/ ļoti reti</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Jā, bieži</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Vienmēr</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es apzinos, ka man vajadzētu kontrolēt laiku, ko pavadu pie savām digitālajām ierīcēm. &lt;/p&gt;</text>
+      <response varName="Q61">
+        <fixed>
+          <category>
+            <label>Nekad</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Dažreiz/ ļoti reti</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Jā, bieži</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Vienmēr</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā pasargāt sevi no nevēlamiem un ļaunprātīgiem materiāliem un tikšanos tiešsaistē (t.i. mēstulēm, identitātes zādzības e-pastiem). &lt;/p&gt;</text>
+      <response varName="Q62">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu par digitālajiem rīkiem, kas var palīdzēt vecāka gadagājuma cilvēkiem vai cilvēkiem ar īpašām vajadzībām.</text>
+      <response varName="Q63">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es meklēju veidus, kā digitālās tehnoloģijas varētu man palīdzēt dzīvot un patērēt resursus videi draudzīgākā veidā. &lt;/p&gt;</text>
+      <response varName="Q64">
+        <fixed>
+          <category>
+            <label>Nekad</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Dažreiz/ ļoti reti</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Jā, bieži</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Vienmēr</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu, ka vecās digitālās ierīces un palīgmateriāli (piem., datori, viedtālruņi, akumulatori) ir atbilstoši jāiznīcina, lai mazinātu to ietekmi uz vidi.</text>
+      <response varName="Q65">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es zinu, kā samazināt savu ierīču enerģijas patēriņu (piem., mainīt iestatījumus, aizvērt lietojumprogrammas, izslēgt WiFi). &lt;/p&gt;</text>
+      <response varName="Q66">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu “zaļo” domāšanu, kas jāievēro, pērkot vai izmantojot digitālās ierīces (piem., iegādāties ierīces ar ekomarķējumu, atturēties no nevajadzīgas digitālo failu drukāšanas, neatstāt mobilo tālruņu un klēpjdatoru lādētājus pievienotus elektrotīklam bez ierīces).</text>
+      <response varName="Q67">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+  <section id="10285">
+    <sectionInfo>
+      <position>title</position>
+      <text>CA5: Problem solving</text>
+      <administration>self</administration>
+    </sectionInfo>
+    <question>
+      <text>&lt;p&gt;Saskaroties ar tehnisku problēmu, es mēģinu soli pa solim to noteikt. &lt;/p&gt;</text>
+      <response varName="Q68">
+        <fixed>
+          <category>
+            <label>Nekad</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Dažreiz/ ļoti reti</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Jā, bieži</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Vienmēr</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu dažus iemeslus, kāpēc digitālajai ierīcei var neizdoties izveidot interneta savienojumu (piem., nepareiza WiFi parole, ieslēgts lidmašīnas režīms).</text>
+      <response varName="Q69">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Saskaroties ar tehnisku problēmu, es spēju atrast risinājumus internetā.</text>
+      <response varName="Q70">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es spēju rediģēt savu digitālo ierīču operētājsistēmas konfigurācijas, lai risinātu tehniskas problēmas (piem., automātiska pakalpojumu apturēšana /sākšana, reģistra atslēgu modificēšana).</text>
+      <response varName="Q71">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es parasti cenšos noskaidrot, vai ir kāds tehnoloģisks risinājums, kas man varētu palīdzēt risināt personīgās vai profesionālās vajadzības. &lt;/p&gt;</text>
+      <response varName="Q72">
+        <fixed>
+          <category>
+            <label>Nekad</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Dažreiz/ ļoti reti</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Jā, bieži</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Vienmēr</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu visbiežāk izmantoto digitālo ierīču galvenās funkcijas (datora, planšetdatora, viedtālruņa).</text>
+      <response varName="Q73">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu, kā izvēlēties pareizo rīku, ierīci vai pakalpojumu dotā uzdevuma veikšanai (piem., izvēlēties viedtālruni manām vajadzībām, izvēlēties rīku profesionālam video zvanam).</text>
+      <response varName="Q74">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu tehniskos risinājumus, kas var uzlabot piekļuvi digitālajiem rīkiem un to izmantošanu, piemēram, valodas tulkošana, palielināšana vai tālummaiņa un funkcionalitāte teksta-balss nolasīšanai.</text>
+      <response varName="Q75">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu, ka digitālās tehnoloģijas var izmantot kā spēcīgu instrumentu inovatīvu procesu un produktu radīšanai.</text>
+      <response varName="Q76">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es vēlos piedalīties izaicinājumos un konkursos, kuru mērķis ir ar digitālo tehnoloģiju palīdzību risināt intelektuālas, sociālas vai praktiskas problēmas. &lt;/p&gt;</text>
+      <response varName="Q77">
+        <fixed>
+          <category>
+            <label>Nekad</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Dažreiz/ ļoti reti</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Jā, bieži</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Vienmēr</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es varu izmantot rīkus, ar kuriem pārvaldīt datus un analizēt sarežģītu informāciju, lai pieņemtu lēmumus un risinātu problēmas (piemēram, datubāzes, datu ieguves un analīzes programmatūru).</text>
+      <response varName="Q78">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Es vēlos palīdzēt savas kopienas cilvēkiem uzlabot viņu digitālās prasmes. &lt;/p&gt;</text>
+      <response varName="Q79">
+        <fixed>
+          <category>
+            <label>Nekad</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Dažreiz/ ļoti reti</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Jā, bieži</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Vienmēr</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>&lt;p&gt;Man ir interese par jaunākajām digitālajām ierīcēm un lietojumprogrammām, un es labprāt eksperimentētu ar tām, kad vien iespējams. &lt;/p&gt;</text>
+      <response varName="Q80">
+        <fixed>
+          <category>
+            <label>Nekad</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Dažreiz/ ļoti reti</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Jā, bieži</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Vienmēr</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu, kā izmantot tiešsaistes mācību rīkus, lai uzlabotu savas digitālās prasmes (piem., video pamācības, tiešsaistes kursi).</text>
+      <response varName="Q81">
+        <fixed>
+          <category>
+            <label>Es nezinu, kā to izdarīt</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar kāda palīdzību</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt patstāvīgi</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es to spēju izdarīt ar pārliecību un, ja nepieciešams, varu atbalstīt/vadīt citus</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+    <question>
+      <text>Es zinu par jaunākajām tendencēm digitālajā pasaulē un to ietekmi uz manu personīgo vai profesionālo dzīvi.</text>
+      <response varName="Q82">
+        <fixed>
+          <category>
+            <label>Man nav nekādu zināšanu par to/ Es nekad neesmu dzirdējis par to</label>
+            <value>AO01</value>
+          </category>
+          <category>
+            <label>Man ir ierobežota izpratne par to</label>
+            <value>AO02</value>
+          </category>
+          <category>
+            <label>Man ir laba izpratne par to</label>
+            <value>AO03</value>
+          </category>
+          <category>
+            <label>Es pilnībā saprotu šo tēmu/ jautājumu un varētu to izskaidrot citiem</label>
+            <value>AO04</value>
+          </category>
+          <category>
+            <label>Šis jautājums man ir neskaidrs</label>
+            <value>AO05</value>
+          </category>
+        </fixed>
+      </response>
+    </question>
+  </section>
+</questionnaire>
