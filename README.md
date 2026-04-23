@@ -3,6 +3,8 @@ This repository lists resources for measuring, self-assessing, and comparing the
 
 **Authors**: Alexander M. Schmid ([ORCID 0000-0001-6872-7140](https://orcid.org/0000-0001-6872-7140)), Jasmin Wandel ([ORCID 0000-0001-7717-9107](https://orcid.org/0000-0001-7717-9107)), & Dharneeka Jeyam ([ORCID 0009-0007-0120-2463](https://orcid.org/0009-0007-0120-2463)).
 
+DOI: [![DOI](https://zenodo.org/badge/1048931386.svg)](https://doi.org/10.5281/zenodo.19706584)
+
 ## About DigCompSAT
 The DigCompSAT instrument is a validated self-assessment test developed by Clifford et al. (2020) to measure digital competence in accordance with the European DigComp 2.1 competence framework (Carretero Gomez et al., 2017)[^3]. The DigCompSAT tool enables users to assess their digital competences across three dimensions: knowledge, skills, and attitudes. These dimensions are broken down into 21 specific competences within the five areas defined by the DigComp framework: i) information and data literacy, ii) communication and collaboration, iii) digital content creation, iv) digital safety and v) digital problem solving. These competences are categorised into levels 1–6 (basic, intermediate, and advanced).
 
