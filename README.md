@@ -24,6 +24,7 @@ Inventory:
 - 82 Question items and response scales of the DigCompSAT measurement instrument **in Spanish**.
 - 82 Question items and response scales of the DigCompSAT measurement instrument **in Latvian**.
 
+External resources used in this project are listed in [ATTRIBUTIONS.md](ATTRIBUTIONS.md).
 ## License
 Unless otherwise stated, resources in this repository are licensed under the Creative Commons Attribution 4.0 Licence (CC BY 4.0) (https://creativecommons.org/licenses/by/4.0). Resources may be reused, given that the source is acknowledged and any changes are indicated.
 

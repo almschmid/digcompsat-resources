@@ -22,6 +22,7 @@ Inventar:
 - 82 Frage-Items und Antwortskalen des DigCompSAT-Messinstruments **auf Spanisch**.
 - 82 Frage-Items und Antwortskalen des DigCompSAT-Messinstruments **auf Lettisch**.
 
+Alle externen Ressourcen in diesem Projekt sind in [ATTRIBUTIONS.md](ATTRIBUTIONS.md) gelistet.
 ## Lizenz
 Sofern nicht anders angegeben, sind Ressourcen in diesem Repository unter der Creative Commons Attribution 4.0 Lizenz (CC BY 4.0) (https://creativecommons.org/licenses/by/4.0) lizenziert. Das bedeutet, dass die Wiederverwendung der Ressourcen unter Angabe der entsprechenden Quelle und unter Hinweis auf etwaige Änderungen zulässig ist.
 
